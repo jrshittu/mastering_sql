@@ -23,7 +23,7 @@ Now, imagine that you had a database of your book collection. The database would
 ## Database Key Terms<a name="keys"></a>
 ![Database Keywords](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hjq553bzuvh4kvh4l10h.png)
 
-**A table** holds a collection of records for a particular theme in rows and columns. _Each row represents a single record or item_, and _each column represents a specific attribute or field_. 
+**A table** holds a collection of records for a particular theme in rows and columns. Each row represents a _single record or item_, and each column represents a specific _attribute or field_. 
 
 Each **_record_** in the table needs a **_unique identifier_**. **_A primary key_** is used to give each record a unique code. A **_primary key_** can never be repeated. This ensures that each record in the table is unique. This is very important when dealing with thousands or even millions of records.
 
