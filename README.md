@@ -42,7 +42,7 @@ When you link to a source table’s primary key you use a foreign key. **_A fore
 
 ## SQL <a name="sql"></a>
 
-**SQL stands for Structured Query Language**. It is a language used to communicate with a database. You can use **SQL** to manipulate databases and retrieve records.
+**SQL stands for Structured Query Language**. It is a language used to interacte and modify a database. You can use **SQL** to manipulate databases and retrieve records.
 ![SQL](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ogikbve1oj40jxgzg7l5.PNG) 
 
 SQL is widely used. It is a standard language that comes in many varieties. The most popular are MySQL and SQLite. For this tutorial you will be using <a href="https://sqlitebrowser.org/blog/version-3-12-0-released/">SQLite</a>.
